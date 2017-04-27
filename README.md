@@ -8,7 +8,8 @@ decode url %XX from arguments or stdin to readable output
 urldecode.exe [str...]
 
 ## Options
-  -h    Display this help message
+
+-h    Display this help message
 
 ## Examples
 
