@@ -3,7 +3,7 @@ urldecode
 
 decode url %XX from arguments or stdin to readable output
 
-## usage 
+## Usage 
 
 urldecode.exe [str...]
 
